@@ -2,6 +2,13 @@
 name = "datafusion_plus"
 version = "0.1.0"
 edition = "2021"
+description = "Bundle of DataFusion and extensions"
+homepage = "https://github.com/DataFusion-Plus/datafusion_plus"
+repository = "https://github.com/DataFusion-Plus/datafusion_plus"
+readme = "README.md"
+authors = ["Tim Van Wassenhove <tim@timvw.be>"]
+license = "Apache-2.0"
+keywords = [ "arrow", "datafusion" ]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
